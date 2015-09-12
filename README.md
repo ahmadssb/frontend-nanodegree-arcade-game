@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game
+frontend-nanodegree-arcade-game [IN PROGRESS]
 ===============================
 
 This is a Final Project : 
